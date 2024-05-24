@@ -1,10 +1,9 @@
-****[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![MLflow](https://img.shields.io/badge/MLflow-2.12.2-blue)](https://mlflow.org/)
+[![Docker](https://img.shields.io/badge/MLflow-2CA5E0?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
+[![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![Docker](https://img.shields.io/badge/terraform-2CA5E0?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
+
 
 <h1 align="center"> MLops Project: Churn Classification Model Deployment </h1>
-<p align="center">
-    <img src="assets/images/banner.png">
-</p>
 
 ## Table of Contents
 - [Table of Contents](#table-of-contents)
@@ -126,7 +125,7 @@ This project require **MLflow ~= 2.12.2**, **Docker ~= 26.1.2** and **Terraform 
     ```
 
 ## Personal situation
-While doing this project I was part of the ARAI6 group of the <a href="https://becode.org/all-trainings/pedagogical-framework-ai-data-science/">AI Bootcamp</a> training organized by <a href="https://becode.org/">BeCode</a> in Ghent. The main objective of this project is to provide participants with an opportunity to understand the concepts of object-oriented programming (OOP) in Python. As well as getting information from an API, scraping a website that does not provide an API and saving the output for later use.
+While doing this project I was part of the ARAI6 group of the <a href="https://becode.org/all-trainings/pedagogical-framework-ai-data-science/">AI Bootcamp</a> training organized by <a href="https://becode.org/">BeCode</a> in Ghent.
 
 
 <img src="https://avatars.githubusercontent.com/u/106887418?s=400&u=82192b481d8f03c3eaad34ca2bd67889fce6a0c2&v=4" width=115><br><sub><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="Miniatura" width=20><a href="https://www.linkedin.com/in/karel-rodriguez-duran/">Karel Rodríguez Durán</a></sub>****
