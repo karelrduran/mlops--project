@@ -1,0 +1,21 @@
+Customer_Age,Gender,Dependent_count,Education_Level,Marital_Status,Income_Category,Card_Category,Months_on_book,Total_Relationship_Count,Months_Inactive_12_mon,Contacts_Count_12_mon,Credit_Limit,Total_Revolving_Bal,Avg_Open_To_Buy,Total_Amt_Chng_Q4_Q1,Total_Trans_Amt,Total_Trans_Ct,Total_Ct_Chng_Q4_Q1,Avg_Utilization_Ratio
+42,M,2,High School,Married,$40K - $60K,Blue,34,5,2,3,12560,800,11760,1.65,1120,44,1.6,0.064
+35,F,1,Graduate,Single,$60K - $80K,Blue,22,4,1,2,8125,975,7150,1.45,1295,37,1.8,0.12
+50,M,3,Unknown,Married,$80K - $120K,Gold,41,6,1,1,34500,2200,32300,2,1385,30,0.75,0.064
+30,F,0,Uneducated,Single,Less than $40K,Blue,25,3,3,1,3320,2500,820,1.4,1100,19,2.5,0.753
+47,M,4,Graduate,Married,$80K - $120K,Platinum,39,5,2,3,23400,1500,21900,1.8,1450,35,2.1,0.064
+38,M,2,High School,Single,Less than $40K,Silver,30,4,0,0,5685,0,5685,2.1,1270,25,1.2,0
+45,F,3,Graduate,Married,$60K - $80K,Blue,32,4,1,2,10230,1650,8580,1.9,1425,33,1.5,0.161
+28,F,1,High School,Single,Less than $40K,Blue,20,3,2,1,3200,1100,2100,1.6,985,23,1.7,0.344
+53,M,2,Graduate,Married,$120K +,Gold,45,6,3,2,40750,1800,38950,2.2,1540,39,1.3,0.044
+41,F,1,Graduate,Single,$40K - $60K,Blue,36,3,1,1,6800,400,6400,1.3,1200,28,1.4,0.059
+34,M,0,High School,Single,Less than $40K,Blue,27,2,3,1,4300,3500,800,1.5,1050,20,2.2,0.814
+48,M,3,Uneducated,Married,$80K - $120K,Blue,33,4,2,2,14500,1000,13500,1.7,1300,29,1.6,0.069
+39,F,2,Unknown,Married,$60K - $80K,Gold,29,5,1,2,9800,1300,8500,1.6,1375,31,1.1,0.133
+32,F,1,Graduate,Single,$40K - $60K,Blue,28,3,0,3,3900,200,3700,1.4,1125,26,1.8,0.051
+46,M,2,Graduate,Married,$80K - $120K,Platinum,38,6,2,0,28500,1200,27300,1.9,1475,36,1.7,0.042
+37,M,1,High School,Married,Less than $40K,Silver,31,3,1,1,5100,600,4500,1.4,1225,27,1.2,0.118
+43,F,4,Graduate,Single,$60K - $80K,Blue,37,5,3,3,13300,950,12350,1.8,1355,32,1.9,0.071
+31,F,2,Unknown,Single,$40K - $60K,Blue,26,4,2,2,7125,850,6275,1.3,1180,25,1.5,0.119
+49,F,3,Graduate,Married,$80K - $120K,Gold,40,6,1,1,17400,700,16700,1.6,1420,33,1.6,0.04
+36,M,1,High School,Married,Less than $40K,Blue,29,3,1,0,4700,900,3800,1.5,1090,24,1.1,0.191
